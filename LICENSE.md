@@ -1,4 +1,4 @@
-# 
+# Get the ultimate grid trading bot for futures with grid trading bot for futures premium Strategy | backtesting & leverage-management. Featuring backtesting and
 
 
 
